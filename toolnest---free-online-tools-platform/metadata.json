@@ -1,0 +1,6 @@
+{
+  "name": "ToolNest - Free Online Tools Platform",
+  "description": "Fast, free, and privacy-friendly online tools, calculators, converters, and generators that actually get things done. 100% browser-side processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

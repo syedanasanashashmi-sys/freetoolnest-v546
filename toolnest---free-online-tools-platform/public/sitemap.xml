@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Core Hub Pages -->
+  <url>
+    <loc>https://toolnest.app/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://toolnest.app/tools</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://toolnest.app/calculators</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://toolnest.app/converters</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://toolnest.app/generators</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://toolnest.app/guides</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Text Tools -->
+  <url><loc>https://toolnest.app/tools/word-counter</loc><priority>0.85</priority></url>
+  <url><loc>https://toolnest.app/tools/character-counter</loc><priority>0.85</priority></url>
+  <url><loc>https://toolnest.app/tools/sentence-counter</loc><priority>0.80</priority></url>
+  <url><loc>https://toolnest.app/tools/paragraph-counter</loc><priority>0.80</priority></url>
+  <url><loc>https://toolnest.app/tools/reading-time-calculator</loc><priority>0.80</priority></url>
+  <url><loc>https://toolnest.app/tools/case-converter</loc><priority>0.85</priority></url>
+  <url><loc>https://toolnest.app/tools/remove-duplicate-lines</loc><priority>0.80</priority></url>
+  <url><loc>https://toolnest.app/tools/text-sorter</loc><priority>0.80</priority></url>
+  <url><loc>https://toolnest.app/tools/find-and-replace</loc><priority>0.80</priority></url>
+  <url><loc>https://toolnest.app/tools/text-repeater</loc><priority>0.75</priority></url>
+
+  <!-- Image Tools & Converters -->
+  <url><loc>https://toolnest.app/tools/image-compressor</loc><priority>0.90</priority></url>
+  <url><loc>https://toolnest.app/tools/image-resizer</loc><priority>0.85</priority></url>
+  <url><loc>https://toolnest.app/tools/image-cropper</loc><priority>0.85</priority></url>
+  <url><loc>https://toolnest.app/converters/jpg-to-webp</loc><priority>0.85</priority></url>
+  <url><loc>https://toolnest.app/converters/png-to-webp</loc><priority>0.85</priority></url>
+  <url><loc>https://toolnest.app/converters/webp-to-jpg</loc><priority>0.85</priority></url>
+  <url><loc>https://toolnest.app/converters/image-to-base64</loc><priority>0.80</priority></url>
+  <url><loc>https://toolnest.app/generators/favicon-generator</loc><priority>0.85</priority></url>
+
+  <!-- Calculators -->
+  <url><loc>https://toolnest.app/calculators/age-calculator</loc><priority>0.90</priority></url>
+  <url><loc>https://toolnest.app/calculators/percentage-calculator</loc><priority>0.90</priority></url>
+  <url><loc>https://toolnest.app/calculators/discount-calculator</loc><priority>0.85</priority></url>
+  <url><loc>https://toolnest.app/calculators/tip-calculator</loc><priority>0.85</priority></url>
+  <url><loc>https://toolnest.app/calculators/bmi-calculator</loc><priority>0.90</priority></url>
+  <url><loc>https://toolnest.app/calculators/date-difference-calculator</loc><priority>0.85</priority></url>
+  <url><loc>https://toolnest.app/calculators/time-duration-calculator</loc><priority>0.80</priority></url>
+
+  <!-- Developer Tools -->
+  <url><loc>https://toolnest.app/tools/json-formatter</loc><priority>0.90</priority></url>
+  <url><loc>https://toolnest.app/tools/json-minifier</loc><priority>0.85</priority></url>
+  <url><loc>https://toolnest.app/converters/base64-encoder-decoder</loc><priority>0.85</priority></url>
+  <url><loc>https://toolnest.app/converters/url-encoder-decoder</loc><priority>0.85</priority></url>
+  <url><loc>https://toolnest.app/generators/uuid-generator</loc><priority>0.85</priority></url>
+
+  <!-- Generators -->
+  <url><loc>https://toolnest.app/generators/qr-code-generator</loc><priority>0.90</priority></url>
+  <url><loc>https://toolnest.app/generators/password-generator</loc><priority>0.90</priority></url>
+  <url><loc>https://toolnest.app/generators/lorem-ipsum-generator</loc><priority>0.80</priority></url>
+  <url><loc>https://toolnest.app/generators/random-number-generator</loc><priority>0.80</priority></url>
+  <url><loc>https://toolnest.app/generators/color-palette-generator</loc><priority>0.85</priority></url>
+
+  <!-- High-Traffic SEO Guides -->
+  <url><loc>https://toolnest.app/guides/how-to-compress-an-image-without-losing-quality</loc><priority>0.75</priority></url>
+  <url><loc>https://toolnest.app/guides/how-to-convert-jpg-to-webp</loc><priority>0.75</priority></url>
+  <url><loc>https://toolnest.app/guides/how-to-calculate-percentage</loc><priority>0.75</priority></url>
+  <url><loc>https://toolnest.app/guides/how-to-calculate-age-accurately</loc><priority>0.75</priority></url>
+  <url><loc>https://toolnest.app/guides/how-to-reduce-image-file-size</loc><priority>0.75</priority></url>
+  <url><loc>https://toolnest.app/guides/what-is-webp-format-guide</loc><priority>0.70</priority></url>
+  <url><loc>https://toolnest.app/guides/jpg-vs-png-vs-webp-comparison</loc><priority>0.70</priority></url>
+  <url><loc>https://toolnest.app/guides/how-to-format-and-validate-json</loc><priority>0.70</priority></url>
+  <url><loc>https://toolnest.app/guides/how-to-encode-and-decode-base64</loc><priority>0.70</priority></url>
+  <url><loc>https://toolnest.app/guides/how-to-create-a-custom-qr-code</loc><priority>0.70</priority></url>
+
+  <!-- Legal & Static Pages -->
+  <url><loc>https://toolnest.app/about</loc><priority>0.50</priority></url>
+  <url><loc>https://toolnest.app/contact</loc><priority>0.50</priority></url>
+  <url><loc>https://toolnest.app/privacy</loc><priority>0.50</priority></url>
+  <url><loc>https://toolnest.app/terms</loc><priority>0.50</priority></url>
+  <url><loc>https://toolnest.app/disclaimer</loc><priority>0.50</priority></url>
+</urlset>
